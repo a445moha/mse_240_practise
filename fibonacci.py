@@ -5,7 +5,7 @@ def fib(n):
     #if n < 0:
         #raise ValueError("n must be 0 or higher")
 
-    # base case
+    # base case..
     if n == 0:
         return 0
     elif n == 1:
